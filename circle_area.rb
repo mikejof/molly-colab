@@ -1,3 +1,13 @@
+=begin
+I like your use of the until loop. It's tres fucking bon!
+
+Nice work! I really liked seeing "Sweet, let me crunch those numbers..."
+
+Now onto greater things!
+Looked up rails yet ?
+=end
+
+
 def is_number? string
   true if Float(string) rescue false
 end
